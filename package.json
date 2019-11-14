@@ -1,0 +1,19 @@
+{
+  "name": "demo-express",
+  "version": "1.0.0",
+  "description": "Demostracion de uso de express js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "demo"
+  ],
+  "author": "Alejandro Villafane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
